@@ -27,7 +27,7 @@ package com.gridnine.testing;
 
 import java.util.List;
 
-public class TestTask {
+public class main {
     public static void main(String[] args) {
         List<Flight> flights = FlightBuilder.createFlights();
         System.out.println("Input fights: ");
